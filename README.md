@@ -14,3 +14,5 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
+![image](https://github.com/susansprague/weather-for-dayz/assets/128939875/db9b4079-3ea6-40d8-8f99-63db282d1541)
